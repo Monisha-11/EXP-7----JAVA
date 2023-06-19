@@ -1,4 +1,4 @@
-# EXP-7 -> INSERT THE ARRAY INTO THE ELEMENT
+# EXP 05 - INSERT THE ARRAY INTO THE ELEMENT
 
 ## AIM:
 To write the java program to insert an element into array
